@@ -15,7 +15,7 @@ class tarea{
             return $n2;
     }
        function  NumeroPrimo($n1){
-    //"Fern·ndez Guzm·n Sandro Fabricio"
+    //"Fern√°ndez Guzm√°n Sandro Fabricio"
     for ($i = 1; $i < ($n1+1); $i++) {
         if(n%i==0){
             $a++;
@@ -30,7 +30,7 @@ class tarea{
         
     }
     function factorial($x) 
-// Hecho por: Mauro_Arroyo_OrdoÒez
+// Hecho por: Mauro_Arroyo_Ordo√±ez
 {
     $return = 1;
     for ($i=2; $i <= $x; $i++) {
@@ -39,6 +39,7 @@ class tarea{
     return $return;
 }
    
+    
 }
     
 
