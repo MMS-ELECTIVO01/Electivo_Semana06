@@ -29,7 +29,7 @@ class tarea{
             
     }
     
-    unction fact($x) 
+    function fact($x) 
 {
     $return = 1;
     for ($i=2; $i <= $x; $i++) {
