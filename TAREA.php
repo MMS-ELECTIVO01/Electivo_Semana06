@@ -14,6 +14,7 @@ class tarea{
         else
             return $n2;
     }
+    
        function  NumeroPrimo($n1){
     //"Fernández Guzmán Sandro Fabricio"
     for ($i = 1; $i < ($n1+1); $i++) {
