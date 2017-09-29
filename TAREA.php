@@ -26,9 +26,10 @@ class tarea{
         }else {
             return 'es primo';
         }
-            
-        
+
     }
+    
+    
 }
     
 
