@@ -26,10 +26,18 @@ class tarea{
         }else {
             return 'es primo';
         }
-
+            
     }
     
-    
+    unction fact($x) 
+{
+    $return = 1;
+    for ($i=2; $i <= $x; $i++) {
+        $return = gmp_mul($return, $i);
+    }
+    return $return;
+}
+   // Hecho por: Mauro_Arroyo_Ordoñez
 }
     
 
